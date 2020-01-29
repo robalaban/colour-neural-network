@@ -1,0 +1,19 @@
+{
+  "name": "colour_contrasts",
+  "version": "1.0.0",
+  "description": "Simple Neural Net with brain.js to generate colour contrasts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brain.js",
+    "neural",
+    "net"
+  ],
+  "author": "Rob",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-alpha.12"
+  }
+}
